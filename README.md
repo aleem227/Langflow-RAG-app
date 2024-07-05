@@ -10,6 +10,9 @@ Language Generation: Generates high-quality, contextually relevant text using Op
 
 Virtual Environment: Uses a virtual environment for dependency management.
 
+# Workflow 
+
+![image](https://github.com/aleem227/Langflow-RAG-app/assets/100162716/0a8d1b6f-c29c-440d-98ae-7db7e5574386)
 
 ## Usage
 
