@@ -1,7 +1,7 @@
 
 # Langflow - RAG app for retriving data
 
-This repository contains the code for a Retrieval-Augmented Generation (RAG) application built using LangFlow and OpenAI 3.5. This application leverages the capabilities of LangFlow for effective data retrieval and OpenAI 3.5 for advanced natural language processing and generation.
+This repository contains the code for a Retrieval-Augmented Generation (RAG) application built using LangFlow and OpenAI 3.5. This application leverages the capabilities of LangFlow for effective data retrieval and OpenAI 3.5/Ollama LLama3:latest for advanced natural language processing and generation.
 
 # Features
 Data Retrieval: Efficiently retrieves relevant information using LangFlow.
